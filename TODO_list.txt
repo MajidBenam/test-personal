@@ -1,0 +1,5 @@
+Things to do:
+1- Make 'dump_csv_from_db.py' work. Currently, with the new schema, we cannot go one level deeper into the _Value classes and read the actual values.
+2- Check if the new bug fix on TemrinusDB helps us with creating Enumerations.
+3- Update the ScopedValues with Dates instead of Star/end and new cofidence values and Unknown and all.
+4- Update the list of properties. The list we have now does not include many of the properties on Equinox_2020   

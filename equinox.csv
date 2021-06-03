@@ -1,0 +1,412 @@
+NGA|Polity|Section|Subsection|Variable|Value From|Value To|Date From|Date To|Fact Type|Value Note|Date Note|Error Note
+NGA|Code book|General variables||Language|Latin||||simple|simple|| 87
+NGA|AfDurrn|General variables||GV_RA|Majid Williams||||complex|list|| 406
+NGA|AfDurrn|General variables||Original name|Durrani Empire||||simple|simple|| 408
+NGA|AfDurrn|General variables||Alternative names|Sadozai Kingdom||||complex|list|| 410
+NGA|AfDurrn|General variables||Alternative names|Last Afghan Empire||||complex|list|| 410
+NGA|AfDurrn|General variables||Peak Date|1761 CE||||simple|simple|| 412
+NGA|AfDurrn|General variables||Duration|1747-1826 CE||||simple|simple|| 418
+NGA|AfDurrn|General variables||Degree of centralization|loose||||simple|simple|| 420
+NGA|AfDurrn|General variables||Supra-polity relations|none||||simple|simple|| 422
+NGA|AfDurrn|General variables||preceding (quasi)polity|Afsharid Dynasty||||simple|simple|| 426
+NGA|AfDurrn|General variables||relationship to preceding (quasi)polity|continuity||||simple|simple|| 427
+NGA|AfDurrn|General variables||succeeding (quasi)polity|Barkzai Dynasty||||simple|simple|| 428
+NGA|AfDurrn|General variables||Capital|Kabul||||complex|list|| 432
+NGA|AfDurrn|General variables||Capital|Peshwar||||complex|list|| 432
+NGA|AfDurrn|General variables||Capital|Herat||||complex|list|| 432
+NGA|AfDurrn|General variables||Language|Pashto||||complex|list|| 434
+NGA|AfDurrn|General variables||Language|Persian||||complex|list|| 434
+NGA|AfDurrn|Social Complexity variables||RA|Stephen Dean||||complex|list|| 449
+NGA|AfDurrn|Social Complexity variables||RA|Alice Williams||||complex|list|| 449
+NGA|AfDurrn|Social Complexity variables|Social Scale|Polity territory|1792000||1772CE||complex|simple|| 453
+NGA|AfDurrn|Social Complexity variables|Social Scale|Polity territory|1790000|490000|1800CE||complex|range|| 453
+NGA|AfDurrn|Social Complexity variables|Social Scale|Polity territory|489000||1819CE||complex|simple|| 453
+NGA|AfDurrn|Social Complexity variables|Hierarchical Complexity|Settlement hierarchy|3|4|||simple|range|| 467
+NGA|AfDurrn|Social Complexity variables|Hierarchical Complexity|Administrative levels|5||||simple|simple|| 484
+NGA|AfDurrn|Social Complexity variables|Hierarchical Complexity|Religious levels|1|2|||simple|range|| 497
+NGA|AfDurrn|Social Complexity variables|Hierarchical Complexity|Military levels|4||||simple|simple|| 505
+NGA|AfDurrn|Social Complexity variables|Professions|Professional military officers|present||||simple|simple|| 521
+NGA|AfDurrn|Social Complexity variables|Professions|Professional soldiers|present||||simple|simple|| 525
+NGA|AfDurrn|Social Complexity variables|Professions|Professional priesthood|absent||||simple|simple|| 527
+NGA|AfDurrn|Social Complexity variables|Bureaucracy characteristics|Full-time bureaucrats|absent||||simple|simple|| 533
+NGA|AfDurrn|Social Complexity variables|Bureaucracy characteristics|Examination system|absent||||simple|simple|| 535
+NGA|AfDurrn|Social Complexity variables|Bureaucracy characteristics|Merit promotion|inferred absent||||simple|simple|| 537
+NGA|AfDurrn|Social Complexity variables|Bureaucracy characteristics|Specialized government buildings|present||||simple|simple|| 539
+NGA|AfDurrn|Social Complexity variables|Law|Formal legal code|present||||simple|simple|| 543
+NGA|AfDurrn|Social Complexity variables|Law|Judges|inferred absent||||simple|simple|| 548
+NGA|AfDurrn|Social Complexity variables|Law|Courts|absent||||simple|simple|| 550
+NGA|AfDurrn|Social Complexity variables|Law|Professional Lawyers|absent||||simple|simple|| 552
+NGA|AfDurrn|Social Complexity variables|Specialized Buildings: polity owned|irrigation systems|present||||simple|simple|| 556
+NGA|AfDurrn|Social Complexity variables|Specialized Buildings: polity owned|drinking water supply systems|inferred absent||||simple|simple|| 557
+NGA|AfDurrn|Social Complexity variables|Specialized Buildings: polity owned|markets|present||||simple|simple|| 558
+NGA|AfDurrn|Social Complexity variables|Specialized Buildings: polity owned|food storage sites|present||||simple|simple|| 559
+NGA|AfDurrn|Social Complexity variables|Specialized Buildings: polity owned|Roads|absent||||simple|simple|| 563
+NGA|AfDurrn|Social Complexity variables|Specialized Buildings: polity owned|Bridges|absent||||simple|simple|| 564
+NGA|AfDurrn|Social Complexity variables|Specialized Buildings: polity owned|Canals|absent||||simple|simple|| 565
+NGA|AfDurrn|Social Complexity variables|Specialized Buildings: polity owned|Ports|absent||||simple|simple|| 566
+NGA|AfDurrn|Social Complexity variables|Information|Nonwritten records|suspected unknown||||simple|simple|| 576
+NGA|AfDurrn|Social Complexity variables|Information|Written records|present||||simple|simple|| 577
+NGA|AfDurrn|Social Complexity variables|Information|Script|present||||simple|simple|| 578
+NGA|AfDurrn|Social Complexity variables|Information|Non-phonetic writing|absent||||simple|simple|| 579
+NGA|AfDurrn|Social Complexity variables|Information|Phonetic alphabetic writing|present||||simple|simple|| 580
+NGA|AfDurrn|Social Complexity variables|Information|Lists tables and classifications|present||||simple|simple|| 584
+NGA|AfDurrn|Social Complexity variables|Information|Calendar|present||||simple|simple|| 585
+NGA|AfDurrn|Social Complexity variables|Information|Sacred Texts|present||||simple|simple|| 586
+NGA|AfDurrn|Social Complexity variables|Information|Religious literature|present||||simple|simple|| 587
+NGA|AfDurrn|Social Complexity variables|Information|Practical literature|present||||simple|simple|| 588
+NGA|AfDurrn|Social Complexity variables|Information|History|present||||simple|simple|| 589
+NGA|AfDurrn|Social Complexity variables|Information|Philosophy|present||||simple|simple|| 590
+NGA|AfDurrn|Social Complexity variables|Information|Fiction|present||||simple|simple|| 592
+NGA|AfDurrn|Social Complexity variables|Information|Articles|present||||simple|simple|| 597
+NGA|AfDurrn|Social Complexity variables|Information|Tokens|present||||simple|simple|| 598
+NGA|AfDurrn|Social Complexity variables|Information|Foreign coins|present||||simple|simple|| 600
+NGA|AfDurrn|Social Complexity variables|Information|Indigenous coins|present||||simple|simple|| 601
+NGA|AfDurrn|Social Complexity variables|Information|Paper currency|present||||simple|simple|| 602
+NGA|AfDurrn|Social Complexity variables|Information|Couriers|present||||simple|simple|| 605
+NGA|AfDurrn|Social Complexity variables|Information|Postal stations|absent||||simple|simple|| 606
+NGA|AfDurrn|Social Complexity variables|Information|General postal service|absent||||simple|simple|| 607
+NGA|AfDurrn|Warfare variables||RA|Stephen Dean||||complex|list|| 610
+NGA|AfDurrn|Warfare variables||RA|Alice Williams||||complex|list|| 610
+NGA|AfDurrn|Warfare variables||RA|Edward A L Turner||||complex|list|| 610
+NGA|AfDurrn|Warfare variables||RA|K Basava||||complex|list|| 610
+NGA|AfDurrn|Warfare variables|Military Technologies|Copper|inferred present||||simple|simple|| 616
+NGA|AfDurrn|Warfare variables|Military Technologies|Bronze|inferred present||||simple|simple|| 617
+NGA|AfDurrn|Warfare variables|Military Technologies|Iron|present||||simple|simple|| 618
+NGA|AfDurrn|Warfare variables|Military Technologies|Steel|present||||simple|simple|| 619
+NGA|AfDurrn|Warfare variables|Military Technologies|Javelins|present||||simple|simple|| 623
+NGA|AfDurrn|Warfare variables|Military Technologies|Atlatl|inferred absent||||simple|simple|| 624
+NGA|AfDurrn|Warfare variables|Military Technologies|Slings|present||||simple|simple|| 625
+NGA|AfDurrn|Warfare variables|Military Technologies|Self bow|present||||simple|simple|| 626
+NGA|AfDurrn|Warfare variables|Military Technologies|Composite bow|present||||simple|simple|| 627
+NGA|AfDurrn|Warfare variables|Military Technologies|Crossbow|present||||simple|simple|| 628
+NGA|AfDurrn|Warfare variables|Military Technologies|Tension siege engines|absent||||simple|simple|| 629
+NGA|AfDurrn|Warfare variables|Military Technologies|Sling siege engines|absent||||simple|simple|| 630
+NGA|AfDurrn|Warfare variables|Military Technologies|Gunpowder siege artillery|present||||simple|simple|| 631
+NGA|AfDurrn|Warfare variables|Military Technologies|Handheld firearms|present||||simple|simple|| 632
+NGA|AfDurrn|Warfare variables|Military Technologies|War clubs|suspected unknown||||simple|simple|| 636
+NGA|AfDurrn|Warfare variables|Military Technologies|Battle axes|present||||simple|simple|| 637
+NGA|AfDurrn|Warfare variables|Military Technologies|Daggers|present||||simple|simple|| 638
+NGA|AfDurrn|Warfare variables|Military Technologies|Swords|present||||simple|simple|| 639
+NGA|AfDurrn|Warfare variables|Military Technologies|Spears|present||||simple|simple|| 640
+NGA|AfDurrn|Warfare variables|Military Technologies|Polearms|suspected unknown||||simple|simple|| 641
+NGA|AfDurrn|Warfare variables|Military Technologies|Dogs|suspected unknown||||simple|simple|| 644
+NGA|AfDurrn|Warfare variables|Military Technologies|Donkeys|present||||simple|simple|| 645
+NGA|AfDurrn|Warfare variables|Military Technologies|Horses|present||||simple|simple|| 646
+NGA|AfDurrn|Warfare variables|Military Technologies|Camels|present||||simple|simple|| 647
+NGA|AfDurrn|Warfare variables|Military Technologies|Wood bark etc|present||||simple|simple|| 649
+NGA|AfDurrn|Warfare variables|Military Technologies|Leather cloth|present||||simple|simple|| 650
+NGA|AfDurrn|Warfare variables|Military Technologies|Shields|present||||simple|simple|| 651
+NGA|AfDurrn|Warfare variables|Military Technologies|Helmets|present||||simple|simple|| 652
+NGA|AfDurrn|Warfare variables|Military Technologies|Breastplates|present||||simple|simple|| 653
+NGA|AfDurrn|Warfare variables|Military Technologies|Limb protection|present||||simple|simple|| 654
+NGA|AfDurrn|Warfare variables|Military Technologies|Scaled armor|present||||simple|simple|| 655
+NGA|AfDurrn|Warfare variables|Military Technologies|Laminar armor|present||||simple|simple|| 656
+NGA|AfDurrn|Warfare variables|Military Technologies|Plate armor|present||||simple|simple|| 657
+NGA|AfDurrn|Warfare variables|Military Technologies|Small vessels (canoes etc)|inferred present||||simple|simple|| 661
+NGA|AfDurrn|Warfare variables|Military Technologies|Merchant ships pressed into service|absent||||simple|simple|| 662
+NGA|AfDurrn|Warfare variables|Military Technologies|Specialized military vessels|absent||||simple|simple|| 663
+NGA|AfDurrn|Warfare variables|Military Technologies|Settlements in a defensive position|inferred present||||simple|simple|| 667
+NGA|AfDurrn|Warfare variables|Military Technologies|Wooden palisades|suspected unknown||||simple|simple|| 668
+NGA|AfDurrn|Warfare variables|Military Technologies|Earth ramparts|present||||simple|simple|| 669
+NGA|AfDurrn|Warfare variables|Military Technologies|Ditch|suspected unknown||||simple|simple|| 670
+NGA|AfDurrn|Warfare variables|Military Technologies|Moat|inferred present||||simple|simple|| 671
+NGA|AfDurrn|Warfare variables|Military Technologies|Stone walls (non-mortared)|suspected unknown||||simple|simple|| 672
+NGA|AfDurrn|Warfare variables|Military Technologies|Stone walls (mortared)|inferred present||||simple|simple|| 673
+NGA|AfDurrn|Warfare variables|Military Technologies|Fortified camps|present||||simple|simple|| 674
+NGA|AfDurrn|Warfare variables|Military Technologies|Complex fortifications|present||||simple|simple|| 675
+NGA|AfDurrn|Warfare variables|Military Technologies|Long walls|0||||simple|simple|| 676
+NGA|AfDurrn|Warfare variables|Military Technologies|Modern fortifications|present||||simple|simple|| 677
+NGA|AfDurrn|Institutional Variables||RA|Eli J. Levine||||simple|simple|| 685
+NGA|AfDurrn|Social Mobility|Status|Elite status is hereditary|present||||simple|simple|| 700
+NGA|AfDurrn|Religion and Normative Ideology||RA|Enrico Cioni||||simple|simple|| 703
+NGA|AfDurrn|Religion and Normative Ideology|Deification of Rulers|Rulers are legitimated by gods|present||||simple|simple|| 707
+NGA|AfDurrn|Religion and Normative Ideology|Deification of Rulers|Rulers are gods|absent||||simple|simple|| 709
+NGA|AfDurrn|Religion and Normative Ideology|Normative Ideological Aspects of Equity and Prosociality|Ideological reinforcement of equality|present||||simple|uncertain|| 713
+NGA|AfDurrn|Religion and Normative Ideology|Normative Ideological Aspects of Equity and Prosociality|Ideological reinforcement of equality|absent||||simple|uncertain|| 713
+NGA|AfDurrn|Religion and Normative Ideology|Normative Ideological Aspects of Equity and Prosociality|Ideological thought equates rulers and commoners|present||||simple|uncertain|| 714
+NGA|AfDurrn|Religion and Normative Ideology|Normative Ideological Aspects of Equity and Prosociality|Ideological thought equates rulers and commoners|absent||||simple|uncertain|| 714
+NGA|AfDurrn|Religion and Normative Ideology|Normative Ideological Aspects of Equity and Prosociality|Ideological thought equates Elites and commoners|present||||simple|simple|| 715
+NGA|AfDurrn|Religion and Normative Ideology|Normative Ideological Aspects of Equity and Prosociality|Ideology reinforces prosociality|present||||simple|simple|| 716
+NGA|AfDurrn|Religion and Normative Ideology|Normative Ideological Aspects of Equity and Prosociality|production of public goods|present||||simple|simple|| 717
+NGA|AfDurrn|Religion and Normative Ideology|Moralizing Supernatural Powers|Moral concern is primary|present||||simple|simple|| 720
+NGA|AfDurrn|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement is certain|present||||simple|simple|| 721
+NGA|AfDurrn|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing norms are broad|present||||simple|simple|| 722
+NGA|AfDurrn|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement is targeted|present||||simple|simple|| 723
+NGA|AfDurrn|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement of rulers|present||||simple|simple|| 724
+NGA|AfDurrn|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing religion adopted by elites|present||||simple|simple|| 725
+NGA|AfDurrn|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing religion adopted by commoners|present||||simple|simple|| 726
+NGA|AfDurrn|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement in afterlife|present||||simple|simple|| 727
+NGA|AfDurrn|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement in this life|absent||||simple|simple|| 728
+NGA|AfDurrn|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement is agentic|present||||simple|simple|| 729
+NGA|AfGhurd|General variables||RA|Edward A L Turner||||simple|simple|| 767
+NGA|AfGhurd|General variables||Original name|Principality of Ghur||||simple|simple|| 769
+NGA|AfGhurd|General variables||Alternative names|Ghurid Empire||||complex|list|| 771
+NGA|AfGhurd|General variables||Alternative names|Sansabanis||||complex|list|| 771
+NGA|AfGhurd|General variables||Alternative names|Gur||||complex|list|| 771
+NGA|AfGhurd|General variables||Peak Date|1200 CE||||simple|simple|| 773
+NGA|AfGhurd|General variables||Duration|1025-1215 CE||||simple|simple|| 781
+NGA|AfGhurd|General variables||Degree of centralization|loose||||complex|list|| 791
+NGA|AfGhurd|General variables||Degree of centralization|confederated state||||complex|list|| 791
+NGA|AfGhurd|General variables||Supra-polity relations|vassalage||||complex|list|| 798
+NGA|AfGhurd|General variables||Supra-polity relations|none||||complex|list|| 798
+NGA|AfGhurd|General variables||Capital|Firuzkuh||||simple|simple|| 812
+NGA|AfGhurd|General variables||Language|Persian||||simple|simple|| 814
+NGA|AfGhurd|Social Complexity variables||RA|Edward A L Turner||||simple|simple|| 828
+NGA|AfGhurd|Social Complexity variables|Social Scale|Polity territory|60000|80000|1150CE||complex|range|| 832
+NGA|AfGhurd|Social Complexity variables|Social Scale|Polity territory|900000|1100000|1175CE||complex|range|| 832
+NGA|AfGhurd|Social Complexity variables|Social Scale|Polity territory|1600000|1700000|1200CE||complex|range|| 832
+NGA|AfGhurd|Social Complexity variables|Hierarchical Complexity|Settlement hierarchy|2|4|1200CE||simple|range|| 851
+NGA|AfGhurd|Social Complexity variables|Hierarchical Complexity|Administrative levels|5||1200CE||simple|simple|| 859
+NGA|AfGhurd|Social Complexity variables|Hierarchical Complexity|Religious levels|1||||simple|simple|| 909
+NGA|AfGhurd|Social Complexity variables|Hierarchical Complexity|Military levels|3|5|1200CE||simple|range|| 914
+NGA|AfGhurd|Social Complexity variables|Professions|Professional military officers|inferred present||1200CE||simple|simple|| 928
+NGA|AfGhurd|Social Complexity variables|Professions|Professional soldiers|inferred present||1200CE||simple|simple|| 930
+NGA|AfGhurd|Social Complexity variables|Professions|Professional priesthood|inferred present||1200CE||simple|simple|| 932
+NGA|AfGhurd|Social Complexity variables|Bureaucracy characteristics|Full-time bureaucrats|inferred present||1200CE||simple|simple|| 936
+NGA|AfGhurd|Social Complexity variables|Bureaucracy characteristics|Specialized government buildings|present||||simple|simple|| 942
+NGA|AfGhurd|Social Complexity variables|Law|Formal legal code|present||||simple|simple|| 946
+NGA|AfGhurd|Social Complexity variables|Law|Judges|present||||simple|simple|| 950
+NGA|AfGhurd|Social Complexity variables|Law|Courts|inferred present||||simple|simple|| 954
+NGA|AfGhurd|Social Complexity variables|Law|Professional Lawyers|inferred present||||simple|simple|| 958
+NGA|AfGhurd|Social Complexity variables|Specialized Buildings: polity owned|irrigation systems|suspected unknown||||simple|simple|| 962
+NGA|AfGhurd|Social Complexity variables|Specialized Buildings: polity owned|markets|present||||simple|simple|| 964
+NGA|AfGhurd|Social Complexity variables|Specialized Buildings: polity owned|food storage sites|present||||simple|simple|| 965
+NGA|AfGhurd|Social Complexity variables|Specialized Buildings: polity owned|Roads|suspected unknown||||simple|simple|| 969
+NGA|AfGhurd|Social Complexity variables|Specialized Buildings: polity owned|Bridges|present||||simple|simple|| 970
+NGA|AfGhurd|Social Complexity variables|Specialized Buildings: polity owned|Ports|absent||1025CE|1191CE|complex|list|range| 972
+NGA|AfGhurd|Social Complexity variables|Specialized Buildings: polity owned|Ports|present||1192CE|2015CE|complex|list|range| 972
+NGA|AfGhurd|Social Complexity variables|Specialized Buildings: polity owned|Mines or quarries|suspected unknown||||simple|simple|| 976
+NGA|AfGhurd|Social Complexity variables|Information|Nonwritten records|present||||simple|simple|| 982
+NGA|AfGhurd|Social Complexity variables|Information|Written records|present||||simple|simple|| 983
+NGA|AfGhurd|Social Complexity variables|Information|Script|present||||simple|simple|| 984
+NGA|AfGhurd|Social Complexity variables|Information|Non-phonetic writing|absent||||simple|simple|| 985
+NGA|AfGhurd|Social Complexity variables|Information|Phonetic alphabetic writing|present||||simple|simple|| 986
+NGA|AfGhurd|Social Complexity variables|Information|Lists tables and classifications|present||||simple|simple|| 990
+NGA|AfGhurd|Social Complexity variables|Information|Calendar|present||||simple|simple|| 991
+NGA|AfGhurd|Social Complexity variables|Information|Sacred Texts|present||||simple|simple|| 992
+NGA|AfGhurd|Social Complexity variables|Information|Religious literature|present||||simple|simple|| 993
+NGA|AfGhurd|Social Complexity variables|Information|Practical literature|present||||simple|simple|| 994
+NGA|AfGhurd|Social Complexity variables|Information|History|present||||simple|simple|| 995
+NGA|AfGhurd|Social Complexity variables|Information|Philosophy|present||||simple|simple|| 996
+NGA|AfGhurd|Social Complexity variables|Information|Scientific literature|inferred present||||simple|simple|| 997
+NGA|AfGhurd|Social Complexity variables|Information|Fiction|present||||simple|simple|| 998
+NGA|AfGhurd|Social Complexity variables|Information|Articles|suspected unknown||||simple|simple|| 1003
+NGA|AfGhurd|Social Complexity variables|Information|Precious metals|suspected unknown||||simple|simple|| 1005
+NGA|AfGhurd|Social Complexity variables|Information|Indigenous coins|present||||simple|simple|| 1007
+NGA|AfGhurd|Social Complexity variables|Information|Paper currency|suspected unknown||||simple|simple|| 1008
+NGA|AfGhurd|Social Complexity variables|Information|Couriers|suspected unknown||||simple|simple|| 1011
+NGA|AfGhurd|Warfare variables||RA|Edward A L Turner||||complex|list|| 1016
+NGA|AfGhurd|Warfare variables||RA|Kiran Basava||||complex|list|| 1016
+NGA|AfGhurd|Warfare variables|Military Technologies|Copper|inferred present||||simple|simple|| 1022
+NGA|AfGhurd|Warfare variables|Military Technologies|Bronze|inferred present||||simple|simple|| 1023
+NGA|AfGhurd|Warfare variables|Military Technologies|Iron|present||||simple|simple|| 1024
+NGA|AfGhurd|Warfare variables|Military Technologies|Steel|present||||simple|simple|| 1025
+NGA|AfGhurd|Warfare variables|Military Technologies|Javelins|present||||simple|simple|| 1029
+NGA|AfGhurd|Warfare variables|Military Technologies|Atlatl|absent||||simple|simple|| 1030
+NGA|AfGhurd|Warfare variables|Military Technologies|Slings|suspected unknown||||simple|simple|| 1031
+NGA|AfGhurd|Warfare variables|Military Technologies|Self bow|suspected unknown||||simple|simple|| 1032
+NGA|AfGhurd|Warfare variables|Military Technologies|Composite bow|present||||simple|simple|| 1033
+NGA|AfGhurd|Warfare variables|Military Technologies|Crossbow|present||||simple|simple|| 1034
+NGA|AfGhurd|Warfare variables|Military Technologies|Tension siege engines|inferred present||||simple|simple|| 1035
+NGA|AfGhurd|Warfare variables|Military Technologies|Sling siege engines|suspected unknown||||simple|simple|| 1036
+NGA|AfGhurd|Warfare variables|Military Technologies|Gunpowder siege artillery|absent||||simple|simple|| 1037
+NGA|AfGhurd|Warfare variables|Military Technologies|Handheld firearms|absent||||simple|simple|| 1038
+NGA|AfGhurd|Warfare variables|Military Technologies|War clubs|inferred present||||simple|simple|| 1042
+NGA|AfGhurd|Warfare variables|Military Technologies|Battle axes|inferred present||||simple|simple|| 1043
+NGA|AfGhurd|Warfare variables|Military Technologies|Daggers|suspected unknown||||simple|simple|| 1044
+NGA|AfGhurd|Warfare variables|Military Technologies|Swords|present||||simple|simple|| 1045
+NGA|AfGhurd|Warfare variables|Military Technologies|Spears|present||||simple|simple|| 1046
+NGA|AfGhurd|Warfare variables|Military Technologies|Polearms|suspected unknown||||simple|simple|| 1047
+NGA|AfGhurd|Warfare variables|Military Technologies|Dogs|inferred present||||simple|simple|| 1050
+NGA|AfGhurd|Warfare variables|Military Technologies|Donkeys|suspected unknown||||simple|simple|| 1051
+NGA|AfGhurd|Warfare variables|Military Technologies|Horses|present||||simple|simple|| 1052
+NGA|AfGhurd|Warfare variables|Military Technologies|Camels|inferred present||||simple|simple|| 1053
+NGA|AfGhurd|Warfare variables|Military Technologies|Elephants|inferred present||||simple|simple|| 1054
+NGA|AfGhurd|Warfare variables|Military Technologies|Wood bark etc|inferred present||||simple|simple|| 1057
+NGA|AfGhurd|Warfare variables|Military Technologies|Leather cloth|present||||simple|simple|| 1058
+NGA|AfGhurd|Warfare variables|Military Technologies|Shields|present||||simple|simple|| 1059
+NGA|AfGhurd|Warfare variables|Military Technologies|Helmets|inferred present||||simple|simple|| 1060
+NGA|AfGhurd|Warfare variables|Military Technologies|Breastplates|present||||simple|simple|| 1061
+NGA|AfGhurd|Warfare variables|Military Technologies|Limb protection|inferred present||||simple|simple|| 1062
+NGA|AfGhurd|Warfare variables|Military Technologies|Chainmail|present||||simple|simple|| 1063
+NGA|AfGhurd|Warfare variables|Military Technologies|Scaled armor|suspected unknown||||simple|simple|| 1064
+NGA|AfGhurd|Warfare variables|Military Technologies|Laminar armor|suspected unknown||||simple|simple|| 1065
+NGA|AfGhurd|Warfare variables|Military Technologies|Plate armor|present||||simple|simple|| 1066
+NGA|AfGhurd|Warfare variables|Military Technologies|Small vessels (canoes etc)|inferred absent||||simple|simple|| 1071
+NGA|AfGhurd|Warfare variables|Military Technologies|Merchant ships pressed into service|inferred absent||||simple|simple|| 1072
+NGA|AfGhurd|Warfare variables|Military Technologies|Specialized military vessels|inferred absent||||simple|simple|| 1073
+NGA|AfGhurd|Warfare variables|Military Technologies|Settlements in a defensive position|inferred present||||simple|simple|| 1077
+NGA|AfGhurd|Warfare variables|Military Technologies|Wooden palisades|suspected unknown||||simple|simple|| 1078
+NGA|AfGhurd|Warfare variables|Military Technologies|Earth ramparts|inferred present||||simple|simple|| 1079
+NGA|AfGhurd|Warfare variables|Military Technologies|Ditch|inferred present||||simple|simple|| 1080
+NGA|AfGhurd|Warfare variables|Military Technologies|Moat|inferred present||||simple|simple|| 1081
+NGA|AfGhurd|Warfare variables|Military Technologies|Stone walls (non-mortared)|suspected unknown||||simple|simple|| 1082
+NGA|AfGhurd|Warfare variables|Military Technologies|Stone walls (mortared)|inferred present||||simple|simple|| 1083
+NGA|AfGhurd|Warfare variables|Military Technologies|Fortified camps|suspected unknown||||simple|simple|| 1084
+NGA|AfGhurd|Warfare variables|Military Technologies|Complex fortifications|inferred present||||simple|simple|| 1085
+NGA|AfGhurd|Warfare variables|Military Technologies|Long walls|0||||simple|simple|| 1086
+NGA|AfGhurd|Warfare variables|Military Technologies|Modern fortifications|absent||||simple|simple|| 1087
+NGA|AfGhurd|Institutional Variables||RA|Kiran Basava||||simple|simple|| 1095
+NGA|AfGhurd|Social Mobility|Status|Elite status is hereditary|inferred present||||simple|simple|| 1110
+NGA|AfGhurd|Religion and Normative Ideology||RA|Enrico Cioni||||simple|simple|| 1113
+NGA|AfGhurd|Religion and Normative Ideology|Deification of Rulers|Rulers are legitimated by gods|present||||simple|simple|| 1117
+NGA|AfGhurd|Religion and Normative Ideology|Deification of Rulers|Rulers are gods|absent||||simple|simple|| 1119
+NGA|AfGhurd|Religion and Normative Ideology|Normative Ideological Aspects of Equity and Prosociality|Ideological reinforcement of equality|present||||simple|simple|| 1123
+NGA|AfGhurd|Religion and Normative Ideology|Normative Ideological Aspects of Equity and Prosociality|Ideological thought equates rulers and commoners|present||||simple|simple|| 1124
+NGA|AfGhurd|Religion and Normative Ideology|Normative Ideological Aspects of Equity and Prosociality|Ideological thought equates elites and commoners|present||||simple|simple|| 1125
+NGA|AfGhurd|Religion and Normative Ideology|Normative Ideological Aspects of Equity and Prosociality|Ideology reinforces prosociality|present||||simple|simple|| 1126
+NGA|AfGhurd|Religion and Normative Ideology|Normative Ideological Aspects of Equity and Prosociality|production of public goods|present||||simple|simple|| 1127
+NGA|AfGhurd|Religion and Normative Ideology|Moralizing Supernatural Powers|Moral concern is primary|present||||simple|simple|| 1130
+NGA|AfGhurd|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement is certain|present||||simple|simple|| 1131
+NGA|AfGhurd|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing norms are broad|present||||simple|simple|| 1132
+NGA|AfGhurd|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement is targeted|present||||simple|simple|| 1133
+NGA|AfGhurd|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement of rulers|present||||simple|simple|| 1134
+NGA|AfGhurd|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing religion adopted by elites|present||||simple|simple|| 1135
+NGA|AfGhurd|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing religion adopted by commoners|present||||simple|simple|| 1136
+NGA|AfGhurd|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement in afterlife|present||||simple|simple|| 1137
+NGA|AfGhurd|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement in this life|absent||||simple|simple|| 1138
+NGA|AfGhurd|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement is agentic|present||||simple|simple|| 1139
+NGA|AfGrBct|General variables||RA|Stephen Dean||||complex|list|| 1181
+NGA|AfGrBct|General variables||RA|Alice Williams||||complex|list|| 1181
+NGA|AfGrBct|General variables||RA|Edward A L Turner||||complex|list|| 1181
+NGA|AfGrBct|General variables||Original name|Greco-Bactrian Kingdom||||simple|simple|| 1183
+NGA|AfGrBct|General variables||Alternative names|Greco-Bactria||||simple|simple|| 1185
+NGA|AfGrBct|General variables||Peak Date|180 BCE||||simple|simple|| 1187
+NGA|AfGrBct|General variables||Duration|256-125 BCE||||simple|simple|| 1193
+NGA|AfGrBct|General variables||Degree of centralization|unitary state||||simple|simple|| 1199
+NGA|AfGrBct|General variables||Supra-polity relations|alliance||||simple|simple|| 1201
+NGA|AfGrBct|General variables||preceding (quasi)polity|Seleucid Empire||||simple|simple|| 1207
+NGA|AfGrBct|General variables||relationship to preceding (quasi)polity|continuity||||simple|simple|| 1208
+NGA|AfGrBct|General variables||succeeding (quasi)polity|Sakas||||simple|simple|| 1209
+NGA|AfGrBct|General variables||Supracultural entity|Greek||||simple|simple|| 1210
+NGA|AfGrBct|General variables||scale of supra-cultural interaction|4500000|5000000|||simple|range|| 1211
+NGA|AfGrBct|General variables||Capital|Bactra||||simple|simple|| 1213
+NGA|AfGrBct|General variables||Language|Greek||||complex|list|| 1215
+NGA|AfGrBct|General variables||Language|Bactrian||||complex|list|| 1215
+NGA|AfGrBct|Social Complexity variables||RA|Stephen Dean||||complex|list|| 1232
+NGA|AfGrBct|Social Complexity variables||RA|Alice Williams||||complex|list|| 1232
+NGA|AfGrBct|Social Complexity variables||RA|Edward A L Turner||||complex|list|| 1232
+NGA|AfGrBct|Social Complexity variables|Social Scale|Polity territory|2200000||180BCE||complex|simple|| 1237
+NGA|AfGrBct|Social Complexity variables|Social Scale|Polity territory|600000|800000|200BCE||complex|range|| 1237
+NGA|AfGrBct|Social Complexity variables|Social Scale|Polity Population|1500000|2000000|200BCE||simple|range|| 1239
+NGA|AfGrBct|Social Complexity variables|Social Scale|Population of the largest settlement|25000|50000|||simple|range|| 1249
+NGA|AfGrBct|Social Complexity variables|Hierarchical Complexity|Settlement hierarchy|3||||simple|simple|| 1265
+NGA|AfGrBct|Social Complexity variables|Hierarchical Complexity|Administrative levels|5|6|200BCE||complex|range|| 1271
+NGA|AfGrBct|Social Complexity variables|Hierarchical Complexity|Administrative levels|4||150BCE||complex|simple|| 1271
+NGA|AfGrBct|Social Complexity variables|Hierarchical Complexity|Religious levels|1|2|||simple|range|| 1287
+NGA|AfGrBct|Social Complexity variables|Hierarchical Complexity|Military levels|5||||simple|simple|| 1295
+NGA|AfGrBct|Social Complexity variables|Professions|Professional military officers|present||||simple|simple|| 1307
+NGA|AfGrBct|Social Complexity variables|Professions|Professional soldiers|present||||simple|simple|| 1309
+NGA|AfGrBct|Social Complexity variables|Professions|Professional priesthood|present||||simple|simple|| 1311
+NGA|AfGrBct|Social Complexity variables|Bureaucracy characteristics|Full-time bureaucrats|inferred present||||simple|simple|| 1315
+NGA|AfGrBct|Social Complexity variables|Bureaucracy characteristics|Examination system|inferred absent||||simple|simple|| 1321
+NGA|AfGrBct|Social Complexity variables|Bureaucracy characteristics|Merit promotion|inferred absent||||simple|simple|| 1323
+NGA|AfGrBct|Social Complexity variables|Bureaucracy characteristics|Specialized government buildings|present||||simple|simple|| 1325
+NGA|AfGrBct|Social Complexity variables|Law|Formal legal code|present||||simple|simple|| 1329
+NGA|AfGrBct|Social Complexity variables|Law|Judges|suspected unknown||||simple|simple|| 1331
+NGA|AfGrBct|Social Complexity variables|Law|Courts|suspected unknown||||simple|simple|| 1333
+NGA|AfGrBct|Social Complexity variables|Law|Professional Lawyers|suspected unknown||||simple|simple|| 1335
+NGA|AfGrBct|Social Complexity variables|Specialized Buildings: polity owned|irrigation systems|present||||simple|simple|| 1339
+NGA|AfGrBct|Social Complexity variables|Specialized Buildings: polity owned|drinking water supply systems|present||||simple|simple|| 1340
+NGA|AfGrBct|Social Complexity variables|Specialized Buildings: polity owned|markets|present||||simple|simple|| 1341
+NGA|AfGrBct|Social Complexity variables|Specialized Buildings: polity owned|food storage sites|present||||simple|simple|| 1342
+NGA|AfGrBct|Social Complexity variables|Specialized Buildings: polity owned|Roads|present||||simple|simple|| 1346
+NGA|AfGrBct|Social Complexity variables|Specialized Buildings: polity owned|Bridges|suspected unknown||||simple|simple|| 1347
+NGA|AfGrBct|Social Complexity variables|Specialized Buildings: polity owned|Canals|inferred absent||||simple|simple|| 1348
+NGA|AfGrBct|Social Complexity variables|Specialized Buildings: polity owned|Ports|inferred present||||simple|simple|| 1349
+NGA|AfGrBct|Social Complexity variables|Specialized Buildings: polity owned|Mines or quarries|suspected unknown||||simple|simple|| 1353
+NGA|AfGrBct|Social Complexity variables|Information|Mnemonic devices|suspected unknown||||simple|simple|| 1358
+NGA|AfGrBct|Social Complexity variables|Information|Nonwritten records|suspected unknown||||simple|simple|| 1359
+NGA|AfGrBct|Social Complexity variables|Information|Written records|present||||simple|simple|| 1360
+NGA|AfGrBct|Social Complexity variables|Information|Script|present||||simple|simple|| 1361
+NGA|AfGrBct|Social Complexity variables|Information|Non-phonetic writing|absent||||simple|simple|| 1362
+NGA|AfGrBct|Social Complexity variables|Information|Phonetic alphabetic writing|present||||simple|simple|| 1363
+NGA|AfGrBct|Social Complexity variables|Information|Lists tables and classifications|inferred present||||simple|simple|| 1367
+NGA|AfGrBct|Social Complexity variables|Information|Calendar|inferred present||||simple|simple|| 1368
+NGA|AfGrBct|Social Complexity variables|Information|Sacred Texts|inferred present||||simple|simple|| 1369
+NGA|AfGrBct|Social Complexity variables|Information|Religious literature|present||||simple|simple|| 1370
+NGA|AfGrBct|Social Complexity variables|Information|Practical literature|inferred present||||simple|simple|| 1371
+NGA|AfGrBct|Social Complexity variables|Information|History|present||||simple|simple|| 1372
+NGA|AfGrBct|Social Complexity variables|Information|Philosophy|inferred present||||simple|simple|| 1373
+NGA|AfGrBct|Social Complexity variables|Information|Scientific literature|inferred present||||simple|simple|| 1374
+NGA|AfGrBct|Social Complexity variables|Information|Fiction|present||||simple|simple|| 1375
+NGA|AfGrBct|Social Complexity variables|Information|Articles|present||||simple|simple|| 1380
+NGA|AfGrBct|Social Complexity variables|Information|Tokens|suspected unknown||||simple|simple|| 1381
+NGA|AfGrBct|Social Complexity variables|Information|Precious metals|inferred present||||simple|simple|| 1382
+NGA|AfGrBct|Social Complexity variables|Information|Foreign coins|present||||simple|simple|| 1383
+NGA|AfGrBct|Social Complexity variables|Information|Indigenous coins|present||||simple|simple|| 1384
+NGA|AfGrBct|Social Complexity variables|Information|Paper currency|absent||||simple|simple|| 1385
+NGA|AfGrBct|Social Complexity variables|Information|Couriers|suspected unknown||||simple|simple|| 1388
+NGA|AfGrBct|Social Complexity variables|Information|General postal service|suspected unknown||||simple|simple|| 1390
+NGA|AfGrBct|Warfare variables||RA|Stephen Dean||||complex|list|| 1393
+NGA|AfGrBct|Warfare variables||RA|Alice Williams||||complex|list|| 1393
+NGA|AfGrBct|Warfare variables||RA|Edward A L Turner||||complex|list|| 1393
+NGA|AfGrBct|Warfare variables|Military Technologies|Copper|inferred present||||simple|simple|| 1399
+NGA|AfGrBct|Warfare variables|Military Technologies|Bronze|present||||simple|simple|| 1400
+NGA|AfGrBct|Warfare variables|Military Technologies|Iron|present||||simple|simple|| 1401
+NGA|AfGrBct|Warfare variables|Military Technologies|Steel|inferred absent||||simple|simple|| 1402
+NGA|AfGrBct|Warfare variables|Military Technologies|Javelins|inferred present||||simple|simple|| 1406
+NGA|AfGrBct|Warfare variables|Military Technologies|Atlatl|absent||||simple|simple|| 1407
+NGA|AfGrBct|Warfare variables|Military Technologies|Slings|inferred present||||simple|simple|| 1408
+NGA|AfGrBct|Warfare variables|Military Technologies|Self bow|inferred present||||simple|simple|| 1409
+NGA|AfGrBct|Warfare variables|Military Technologies|Composite bow|present||||simple|simple|| 1410
+NGA|AfGrBct|Warfare variables|Military Technologies|Crossbow|absent||||simple|simple|| 1411
+NGA|AfGrBct|Warfare variables|Military Technologies|Tension siege engines|present||||simple|simple|| 1412
+NGA|AfGrBct|Warfare variables|Military Technologies|Sling siege engines|absent||||simple|simple|| 1413
+NGA|AfGrBct|Warfare variables|Military Technologies|Gunpowder siege artillery|absent||||simple|simple|| 1414
+NGA|AfGrBct|Warfare variables|Military Technologies|Handheld firearms|absent||||simple|simple|| 1415
+NGA|AfGrBct|Warfare variables|Military Technologies|War clubs|suspected unknown||||simple|simple|| 1419
+NGA|AfGrBct|Warfare variables|Military Technologies|Battle axes|suspected unknown||||simple|simple|| 1420
+NGA|AfGrBct|Warfare variables|Military Technologies|Daggers|inferred present||||simple|simple|| 1421
+NGA|AfGrBct|Warfare variables|Military Technologies|Swords|present||||simple|simple|| 1422
+NGA|AfGrBct|Warfare variables|Military Technologies|Spears|present||||simple|simple|| 1423
+NGA|AfGrBct|Warfare variables|Military Technologies|Polearms|suspected unknown||||simple|simple|| 1424
+NGA|AfGrBct|Warfare variables|Military Technologies|Dogs|suspected unknown||||simple|simple|| 1427
+NGA|AfGrBct|Warfare variables|Military Technologies|Donkeys|present||||simple|simple|| 1428
+NGA|AfGrBct|Warfare variables|Military Technologies|Horses|present||||simple|simple|| 1429
+NGA|AfGrBct|Warfare variables|Military Technologies|Camels|inferred present||||simple|simple|| 1430
+NGA|AfGrBct|Warfare variables|Military Technologies|Elephants|present||||simple|simple|| 1431
+NGA|AfGrBct|Warfare variables|Military Technologies|Wood bark etc|present||||simple|simple|| 1434
+NGA|AfGrBct|Warfare variables|Military Technologies|Leather cloth|present||||simple|simple|| 1435
+NGA|AfGrBct|Warfare variables|Military Technologies|Shields|present||||simple|simple|| 1436
+NGA|AfGrBct|Warfare variables|Military Technologies|Helmets|present||||simple|simple|| 1437
+NGA|AfGrBct|Warfare variables|Military Technologies|Breastplates|present||||simple|simple|| 1438
+NGA|AfGrBct|Warfare variables|Military Technologies|Limb protection|present||||simple|simple|| 1439
+NGA|AfGrBct|Warfare variables|Military Technologies|Chainmail|suspected unknown||||simple|simple|| 1440
+NGA|AfGrBct|Warfare variables|Military Technologies|Scaled armor|present||||simple|simple|| 1441
+NGA|AfGrBct|Warfare variables|Military Technologies|Laminar armor|suspected unknown||||simple|simple|| 1442
+NGA|AfGrBct|Warfare variables|Military Technologies|Plate armor|present||||simple|simple|| 1443
+NGA|AfGrBct|Warfare variables|Military Technologies|Small vessels (canoes etc)|present||||simple|simple|| 1447
+NGA|AfGrBct|Warfare variables|Military Technologies|Merchant ships pressed into service|absent||||simple|simple|| 1448
+NGA|AfGrBct|Warfare variables|Military Technologies|Specialized military vessels|absent||||simple|simple|| 1449
+NGA|AfGrBct|Warfare variables|Military Technologies|Settlements in a defensive position|suspected unknown||||simple|simple|| 1453
+NGA|AfGrBct|Warfare variables|Military Technologies|Wooden palisades|suspected unknown||||simple|simple|| 1454
+NGA|AfGrBct|Warfare variables|Military Technologies|Earth ramparts|present||||simple|simple|| 1455
+NGA|AfGrBct|Warfare variables|Military Technologies|Ditch|present||||simple|simple|| 1456
+NGA|AfGrBct|Warfare variables|Military Technologies|Moat|present||||simple|simple|| 1457
+NGA|AfGrBct|Warfare variables|Military Technologies|Stone walls (non-mortared)|suspected unknown||||simple|simple|| 1458
+NGA|AfGrBct|Warfare variables|Military Technologies|Stone walls (mortared)|present||||simple|simple|| 1459
+NGA|AfGrBct|Warfare variables|Military Technologies|Fortified camps|suspected unknown||||simple|simple|| 1460
+NGA|AfGrBct|Warfare variables|Military Technologies|Complex fortifications|present||||simple|simple|| 1461
+NGA|AfGrBct|Warfare variables|Military Technologies|Modern fortifications|absent||||simple|simple|| 1463
+NGA|AfGrBct|Institutional Variables||RA|Agathe Dupeyron||||simple|simple|| 1469
+NGA|AfGrBct|Social Mobility|Status|Elite status is hereditary|inferred present||||simple|simple|| 1484
+NGA|AfGrBct|Religion and Normative Ideology||RA|Enrico Cioni||||simple|simple|| 1487
+NGA|AfGrBct|Religion and Normative Ideology|Deification of Rulers|Rulers are legitimated by gods|inferred absent||||simple|simple|| 1491
+NGA|AfGrBct|Religion and Normative Ideology|Deification of Rulers|Rulers are gods|inferred present||||simple|simple|| 1493
+NGA|AfGrBct|Religion and Normative Ideology|Normative Ideological Aspects of Equity and Prosociality|Ideological reinforcement of equality|present||||simple|simple|| 1498
+NGA|AfGrBct|Religion and Normative Ideology|Normative Ideological Aspects of Equity and Prosociality|Ideological thought equates rulers and commoners|present||||simple|simple|| 1499
+NGA|AfGrBct|Religion and Normative Ideology|Normative Ideological Aspects of Equity and Prosociality|Ideological thought equates elites and commoners|present||||simple|simple|| 1500
+NGA|AfGrBct|Religion and Normative Ideology|Normative Ideological Aspects of Equity and Prosociality|Ideology reinforces prosociality|present||||simple|simple|| 1501
+NGA|AfGrBct|Religion and Normative Ideology|Normative Ideological Aspects of Equity and Prosociality|production of public goods|present||||simple|simple|| 1502
+NGA|AfGrBct|Religion and Normative Ideology|Moralizing Supernatural Powers|Moral concern is primary|present||||simple|simple|| 1505
+NGA|AfGrBct|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement is certain|present||||simple|simple|| 1506
+NGA|AfGrBct|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing norms are broad|present||||simple|simple|| 1507
+NGA|AfGrBct|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement is targeted|present||||simple|simple|| 1508
+NGA|AfGrBct|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement of rulers|absent||||simple|simple|| 1509
+NGA|AfGrBct|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing religion adopted by elites|present||||simple|simple|| 1510
+NGA|AfGrBct|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing religion adopted by commoners|absent||||simple|uncertain|| 1511
+NGA|AfGrBct|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing religion adopted by commoners|present||||simple|uncertain|| 1511
+NGA|AfGrBct|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement in afterlife|present||||simple|simple|| 1512
+NGA|AfGrBct|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement in this life|present||||simple|simple|| 1513
+NGA|AfGrBct|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement is agentic|present||||simple|simple|| 1514

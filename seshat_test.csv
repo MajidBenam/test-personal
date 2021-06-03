@@ -1,0 +1,404 @@
+NGA|PolityName|Section|Subsection|Variable|ActualValue|Years|Confidence|Disputed|Unknown
+NGA|Code book|General variables||Language|Latin||||
+NGA|AfDurrn|Social Complexity variables|Hierarchical Complexity|Administrative levels|5||||
+NGA|AfDurrn|General variables||Alternative names|Sadozai Kingdom||||
+NGA|AfDurrn|General variables||Alternative names|Last Afghan Empire||||
+NGA|AfDurrn|Social Complexity variables|Information|Articles|present||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Atlatl|absent||inferred||
+NGA|AfDurrn|Warfare variables|Military Technologies|Battle axes|present||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Breastplates|present||||
+NGA|AfDurrn|Social Complexity variables|Specialized Buildings: polity owned|Bridges|absent||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Bronze|present||inferred||
+NGA|AfDurrn|Social Complexity variables|Information|Calendar|present||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Camels|present||||
+NGA|AfDurrn|Social Complexity variables|Specialized Buildings: polity owned|Canals|absent||||
+NGA|AfDurrn|General variables||Capital|Kabul||||
+NGA|AfDurrn|General variables||Capital|Peshwar||||
+NGA|AfDurrn|General variables||Capital|Herat||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Complex fortifications|present||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Composite bow|present||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Copper|present||inferred||
+NGA|AfDurrn|Social Complexity variables|Information|Couriers|present||||
+NGA|AfDurrn|Social Complexity variables|Law|Courts|absent||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Crossbow|present||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Daggers|present||||
+NGA|AfDurrn|General variables||Degree of centralization|loose||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Ditch|UNKNOWN||suspected||True
+NGA|AfDurrn|Warfare variables|Military Technologies|Dogs|UNKNOWN||suspected||True
+NGA|AfDurrn|Warfare variables|Military Technologies|Donkeys|present||||
+NGA|AfDurrn|Social Complexity variables|Specialized Buildings: polity owned|drinking water supply systems|absent||inferred||
+NGA|AfDurrn|General variables||Duration|[1747,1826]||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Earth ramparts|present||||
+NGA|AfDurrn|Social Mobility|Status|Elite status is hereditary|present||||
+NGA|AfDurrn|Social Complexity variables|Bureaucracy characteristics|Examination system|absent||||
+NGA|AfDurrn|Social Complexity variables|Information|Fiction|present||||
+NGA|AfDurrn|Social Complexity variables|Specialized Buildings: polity owned|food storage sites|present||||
+NGA|AfDurrn|Social Complexity variables|Information|Foreign coins|present||||
+NGA|AfDurrn|Social Complexity variables|Law|Formal legal code|present||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Fortified camps|present||||
+NGA|AfDurrn|Social Complexity variables|Bureaucracy characteristics|Full-time bureaucrats|absent||||
+NGA|AfDurrn|Social Complexity variables|Information|General postal service|absent||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Gunpowder siege artillery|present||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Handheld firearms|present||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Helmets|present||||
+NGA|AfDurrn|Social Complexity variables|Information|History|present||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Horses|present||||
+NGA|AfDurrn|Institutional Variables||RA|Eli J. Levine||||
+NGA|AfDurrn|Religion and Normative Ideology|Normative ideological Aspects of Equity and Prosociality|Ideological reinforcement of equality|present|||True|
+NGA|AfDurrn|Religion and Normative Ideology|Normative ideological Aspects of Equity and Prosociality|Ideological reinforcement of equality|absent|||True|
+NGA|AfDurrn|Religion and Normative Ideology|Normative ideological Aspects of Equity and Prosociality|Ideological thought equates rulers and commoners|present|||True|
+NGA|AfDurrn|Religion and Normative Ideology|Normative ideological Aspects of Equity and Prosociality|Ideological thought equates rulers and commoners|absent|||True|
+NGA|AfDurrn|Religion and Normative Ideology|Normative ideological Aspects of Equity and Prosociality|Ideology reinforces prosociality|present||||
+NGA|AfDurrn|Social Complexity variables|Information|Indigenous coins|present||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Iron|present||||
+NGA|AfDurrn|Social Complexity variables|Specialized Buildings: polity owned|irrigation systems|present||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Javelins|present||||
+NGA|AfDurrn|Social Complexity variables|Law|Judges|absent||inferred||
+NGA|AfDurrn|Warfare variables|Military Technologies|Laminar armor|present||||
+NGA|AfDurrn|General variables||Language|Pashto||||
+NGA|AfDurrn|General variables||Language|Persian||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Leather cloth|present||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Limb protection|present||||
+NGA|AfDurrn|Social Complexity variables|Information|Lists tables and classifications|present||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Long walls|0||||
+NGA|AfDurrn|Social Complexity variables|Specialized Buildings: polity owned|markets|present||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Merchant ships pressed into service|absent||||
+NGA|AfDurrn|Social Complexity variables|Bureaucracy characteristics|Merit promotion|absent||inferred||
+NGA|AfDurrn|Social Complexity variables|Hierarchical Complexity|Military levels|4||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Moat|present||inferred||
+NGA|AfDurrn|Warfare variables|Military Technologies|Modern fortifications|present||||
+NGA|AfDurrn|Religion and Normative Ideology|Moralizing Supernatural Powers|Moral concern is primary|present||||
+NGA|AfDurrn|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement in afterlife|present||||
+NGA|AfDurrn|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement in this life|absent||||
+NGA|AfDurrn|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement is agentic|present||||
+NGA|AfDurrn|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement is certain|present||||
+NGA|AfDurrn|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement is targeted|present||||
+NGA|AfDurrn|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement of rulers|present||||
+NGA|AfDurrn|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing norms are broad|present||||
+NGA|AfDurrn|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing religion adopted by commoners|present||||
+NGA|AfDurrn|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing religion adopted by elites|present||||
+NGA|AfDurrn|Social Complexity variables|Information|Non-phonetic writing|absent||||
+NGA|AfDurrn|Social Complexity variables|Information|Nonwritten records|UNKNOWN||suspected||True
+NGA|AfDurrn|General variables||Original name|Durrani Empire||||
+NGA|AfDurrn|Social Complexity variables|Information|Paper currency|present||||
+NGA|AfDurrn|General variables||Peak Date|1761||||
+NGA|AfDurrn|Social Complexity variables|Information|Philosophy|present||||
+NGA|AfDurrn|Social Complexity variables|Information|Phonetic alphabetic writing|present||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Plate armor|present||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Polearms|UNKNOWN||suspected||True
+NGA|AfDurrn|Social Complexity variables|Social Scale|Polity territory|1792000|1772|||
+NGA|AfDurrn|Social Complexity variables|Social Scale|Polity territory|[1790000,490000]|1800|||
+NGA|AfDurrn|Social Complexity variables|Social Scale|Polity territory|489000|1819|||
+NGA|AfDurrn|Social Complexity variables|Specialized Buildings: polity owned|Ports|absent||||
+NGA|AfDurrn|Social Complexity variables|Information|Postal stations|absent||||
+NGA|AfDurrn|Social Complexity variables|Information|Practical literature|present||||
+NGA|AfDurrn|Social Complexity variables|Law|Professional Lawyers|absent||||
+NGA|AfDurrn|Social Complexity variables|Professions|Professional military officers|present||||
+NGA|AfDurrn|Social Complexity variables|Professions|Professional priesthood|absent||||
+NGA|AfDurrn|Social Complexity variables|Professions|Professional soldiers|present||||
+NGA|AfDurrn|Religion and Normative Ideology||RA|Enrico Cioni||||
+NGA|AfDurrn|Social Complexity variables|Hierarchical Complexity|Religious levels|[1,2]||||
+NGA|AfDurrn|Social Complexity variables|Information|Religious literature|present||||
+NGA|AfDurrn|Social Complexity variables|Specialized Buildings: polity owned|Roads|absent||||
+NGA|AfDurrn|Religion and Normative Ideology|Deification of Rulers|Rulers are gods|absent||||
+NGA|AfDurrn|Religion and Normative Ideology|Deification of Rulers|Rulers are legitimated by gods|present||||
+NGA|AfDurrn|Social Complexity variables||RA|Stephen Dean||||
+NGA|AfDurrn|Social Complexity variables||RA|Alice Williams||||
+NGA|AfDurrn|Social Complexity variables|Information|Sacred Texts|present||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Scaled armor|present||||
+NGA|AfDurrn|Social Complexity variables|Information|Script|present||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Self bow|present||||
+NGA|AfDurrn|Social Complexity variables|Hierarchical Complexity|Settlement hierarchy|[3,4]||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Settlements in a defensive position|present||inferred||
+NGA|AfDurrn|Warfare variables|Military Technologies|Shields|present||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Sling siege engines|absent||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Slings|present||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Small vessels (canoes etc)|present||inferred||
+NGA|AfDurrn|Warfare variables|Military Technologies|Spears|present||||
+NGA|AfDurrn|Social Complexity variables|Bureaucracy characteristics|Specialized government buildings|present||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Specialized military vessels|absent||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Steel|present||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Stone walls (mortared)|present||inferred||
+NGA|AfDurrn|Warfare variables|Military Technologies|Stone walls (non-mortared)|UNKNOWN||suspected||True
+NGA|AfDurrn|General variables||Supra-polity relations|none||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Swords|present||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Tension siege engines|absent||||
+NGA|AfDurrn|Social Complexity variables|Information|Tokens|present||||
+NGA|AfDurrn|Warfare variables||RA|Stephen Dean||||
+NGA|AfDurrn|Warfare variables||RA|Alice Williams||||
+NGA|AfDurrn|Warfare variables||RA|Edward A L Turner||||
+NGA|AfDurrn|Warfare variables||RA|K Basava||||
+NGA|AfDurrn|Warfare variables|Military Technologies|War clubs|UNKNOWN||suspected||True
+NGA|AfDurrn|Warfare variables|Military Technologies|Wood bark etc|present||||
+NGA|AfDurrn|Warfare variables|Military Technologies|Wooden palisades|UNKNOWN||suspected||True
+NGA|AfDurrn|Social Complexity variables|Information|Written records|present||||
+NGA|AfDurrn|Religion and Normative Ideology|Normative ideological Aspects of Equity and Prosociality|production of public goods|present||||
+NGA|AfGhurd|Social Complexity variables|Hierarchical Complexity|Administrative levels|5|1200|||
+NGA|AfGhurd|General variables||Alternative names|Ghurid Empire||||
+NGA|AfGhurd|General variables||Alternative names|Sansabanis||||
+NGA|AfGhurd|General variables||Alternative names|Gur||||
+NGA|AfGhurd|Social Complexity variables|Information|Articles|UNKNOWN||suspected||True
+NGA|AfGhurd|Warfare variables|Military Technologies|Atlatl|absent||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Battle axes|present||inferred||
+NGA|AfGhurd|Warfare variables|Military Technologies|Breastplates|present||||
+NGA|AfGhurd|Social Complexity variables|Specialized Buildings: polity owned|Bridges|present||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Bronze|present||inferred||
+NGA|AfGhurd|Social Complexity variables|Information|Calendar|present||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Camels|present||inferred||
+NGA|AfGhurd|General variables||Capital|Firuzkuh||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Chainmail|present||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Complex fortifications|present||inferred||
+NGA|AfGhurd|Warfare variables|Military Technologies|Composite bow|present||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Copper|present||inferred||
+NGA|AfGhurd|Social Complexity variables|Information|Couriers|UNKNOWN||suspected||True
+NGA|AfGhurd|Social Complexity variables|Law|Courts|present||inferred||
+NGA|AfGhurd|Warfare variables|Military Technologies|Crossbow|present||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Daggers|UNKNOWN||suspected||True
+NGA|AfGhurd|General variables||Degree of centralization|loose||||
+NGA|AfGhurd|General variables||Degree of centralization|confederated state||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Ditch|present||inferred||
+NGA|AfGhurd|Warfare variables|Military Technologies|Dogs|present||inferred||
+NGA|AfGhurd|Warfare variables|Military Technologies|Donkeys|UNKNOWN||suspected||True
+NGA|AfGhurd|General variables||Duration|[1025,1215]||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Earth ramparts|present||inferred||
+NGA|AfGhurd|Warfare variables|Military Technologies|Elephants|present||inferred||
+NGA|AfGhurd|Social Mobility|Status|Elite status is hereditary|present||inferred||
+NGA|AfGhurd|Social Complexity variables|Information|Fiction|present||||
+NGA|AfGhurd|Social Complexity variables|Specialized Buildings: polity owned|food storage sites|present||||
+NGA|AfGhurd|Social Complexity variables|Law|Formal legal code|present||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Fortified camps|UNKNOWN||suspected||True
+NGA|AfGhurd|Social Complexity variables|Bureaucracy characteristics|Full-time bureaucrats|present|1200|inferred||
+NGA|AfGhurd|General variables||RA|Edward A L Turner||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Gunpowder siege artillery|absent||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Handheld firearms|absent||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Helmets|present||inferred||
+NGA|AfGhurd|Social Complexity variables|Information|History|present||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Horses|present||||
+NGA|AfGhurd|Institutional Variables||RA|Kiran Basava||||
+NGA|AfGhurd|Religion and Normative Ideology|Normative ideological Aspects of Equity and Prosociality|Ideological reinforcement of equality|present||||
+NGA|AfGhurd|Religion and Normative Ideology|Normative ideological Aspects of Equity and Prosociality|Ideological thought equates elites and commoners|present||||
+NGA|AfGhurd|Religion and Normative Ideology|Normative ideological Aspects of Equity and Prosociality|Ideological thought equates rulers and commoners|present||||
+NGA|AfGhurd|Religion and Normative Ideology|Normative ideological Aspects of Equity and Prosociality|Ideology reinforces prosociality|present||||
+NGA|AfGhurd|Social Complexity variables|Information|Indigenous coins|present||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Iron|present||||
+NGA|AfGhurd|Social Complexity variables|Specialized Buildings: polity owned|irrigation systems|UNKNOWN||suspected||True
+NGA|AfGhurd|Warfare variables|Military Technologies|Javelins|present||||
+NGA|AfGhurd|Social Complexity variables|Law|Judges|present||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Laminar armor|UNKNOWN||suspected||True
+NGA|AfGhurd|General variables||Language|Persian||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Leather cloth|present||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Limb protection|present||inferred||
+NGA|AfGhurd|Social Complexity variables|Information|Lists tables and classifications|present||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Long walls|0||||
+NGA|AfGhurd|Social Complexity variables|Specialized Buildings: polity owned|markets|present||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Merchant ships pressed into service|absent||inferred||
+NGA|AfGhurd|Social Complexity variables|Hierarchical Complexity|Military levels|[3,5]|1200|||
+NGA|AfGhurd|Social Complexity variables|Specialized Buildings: polity owned|Mines or quarries|UNKNOWN||suspected||True
+NGA|AfGhurd|Warfare variables|Military Technologies|Moat|present||inferred||
+NGA|AfGhurd|Warfare variables|Military Technologies|Modern fortifications|absent||||
+NGA|AfGhurd|Religion and Normative Ideology|Moralizing Supernatural Powers|Moral concern is primary|present||||
+NGA|AfGhurd|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement in afterlife|present||||
+NGA|AfGhurd|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement in this life|absent||||
+NGA|AfGhurd|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement is agentic|present||||
+NGA|AfGhurd|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement is certain|present||||
+NGA|AfGhurd|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement is targeted|present||||
+NGA|AfGhurd|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement of rulers|present||||
+NGA|AfGhurd|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing norms are broad|present||||
+NGA|AfGhurd|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing religion adopted by commoners|present||||
+NGA|AfGhurd|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing religion adopted by elites|present||||
+NGA|AfGhurd|Social Complexity variables|Information|Non-phonetic writing|absent||||
+NGA|AfGhurd|Social Complexity variables|Information|Nonwritten records|present||||
+NGA|AfGhurd|General variables||Original name|Principality of Ghur||||
+NGA|AfGhurd|Social Complexity variables|Information|Paper currency|UNKNOWN||suspected||True
+NGA|AfGhurd|General variables||Peak Date|1200||||
+NGA|AfGhurd|Social Complexity variables|Information|Philosophy|present||||
+NGA|AfGhurd|Social Complexity variables|Information|Phonetic alphabetic writing|present||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Plate armor|present||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Polearms|UNKNOWN||suspected||True
+NGA|AfGhurd|Social Complexity variables|Social Scale|Polity territory|[60000,80000]|1150|||
+NGA|AfGhurd|Social Complexity variables|Social Scale|Polity territory|[900000,1100000]|1175|||
+NGA|AfGhurd|Social Complexity variables|Social Scale|Polity territory|[1600000,1700000]|1200|||
+NGA|AfGhurd|Social Complexity variables|Specialized Buildings: polity owned|Ports|absent|[1025,1191]|||
+NGA|AfGhurd|Social Complexity variables|Specialized Buildings: polity owned|Ports|present|[1192,2015]|||
+NGA|AfGhurd|Social Complexity variables|Information|Practical literature|present||||
+NGA|AfGhurd|Social Complexity variables|Information|Precious metals|UNKNOWN||suspected||True
+NGA|AfGhurd|Social Complexity variables|Law|Professional Lawyers|present||inferred||
+NGA|AfGhurd|Social Complexity variables|Professions|Professional military officers|present|1200|inferred||
+NGA|AfGhurd|Social Complexity variables|Professions|Professional priesthood|present|1200|inferred||
+NGA|AfGhurd|Social Complexity variables|Professions|Professional soldiers|present|1200|inferred||
+NGA|AfGhurd|Religion and Normative Ideology||RA|Enrico Cioni||||
+NGA|AfGhurd|Social Complexity variables|Hierarchical Complexity|Religious levels|1||||
+NGA|AfGhurd|Social Complexity variables|Information|Religious literature|present||||
+NGA|AfGhurd|Social Complexity variables|Specialized Buildings: polity owned|Roads|UNKNOWN||suspected||True
+NGA|AfGhurd|Religion and Normative Ideology|Deification of Rulers|Rulers are gods|absent||||
+NGA|AfGhurd|Religion and Normative Ideology|Deification of Rulers|Rulers are legitimated by gods|present||||
+NGA|AfGhurd|Social Complexity variables||RA|Edward A L Turner||||
+NGA|AfGhurd|Social Complexity variables|Information|Sacred Texts|present||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Scaled armor|UNKNOWN||suspected||True
+NGA|AfGhurd|Social Complexity variables|Information|Scientific literature|present||inferred||
+NGA|AfGhurd|Social Complexity variables|Information|Script|present||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Self bow|UNKNOWN||suspected||True
+NGA|AfGhurd|Social Complexity variables|Hierarchical Complexity|Settlement hierarchy|[2,4]|1200|||
+NGA|AfGhurd|Warfare variables|Military Technologies|Settlements in a defensive position|present||inferred||
+NGA|AfGhurd|Warfare variables|Military Technologies|Shields|present||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Sling siege engines|UNKNOWN||suspected||True
+NGA|AfGhurd|Warfare variables|Military Technologies|Slings|UNKNOWN||suspected||True
+NGA|AfGhurd|Warfare variables|Military Technologies|Small vessels (canoes etc)|absent||inferred||
+NGA|AfGhurd|Warfare variables|Military Technologies|Spears|present||||
+NGA|AfGhurd|Social Complexity variables|Bureaucracy characteristics|Specialized government buildings|present||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Specialized military vessels|absent||inferred||
+NGA|AfGhurd|Warfare variables|Military Technologies|Steel|present||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Stone walls (mortared)|present||inferred||
+NGA|AfGhurd|Warfare variables|Military Technologies|Stone walls (non-mortared)|UNKNOWN||suspected||True
+NGA|AfGhurd|General variables||Supra-polity relations|vassalage||||
+NGA|AfGhurd|General variables||Supra-polity relations|none||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Swords|present||||
+NGA|AfGhurd|Warfare variables|Military Technologies|Tension siege engines|present||inferred||
+NGA|AfGhurd|Warfare variables||RA|Edward A L Turner||||
+NGA|AfGhurd|Warfare variables||RA|Kiran Basava||||
+NGA|AfGhurd|Warfare variables|Military Technologies|War clubs|present||inferred||
+NGA|AfGhurd|Warfare variables|Military Technologies|Wood bark etc|present||inferred||
+NGA|AfGhurd|Warfare variables|Military Technologies|Wooden palisades|UNKNOWN||suspected||True
+NGA|AfGhurd|Social Complexity variables|Information|Written records|present||||
+NGA|AfGhurd|Religion and Normative Ideology|Normative ideological Aspects of Equity and Prosociality|production of public goods|present||||
+NGA|AfGrBct|Social Complexity variables|Hierarchical Complexity|Administrative levels|[5,6]|-0200|||
+NGA|AfGrBct|Social Complexity variables|Hierarchical Complexity|Administrative levels|4|-0150|||
+NGA|AfGrBct|General variables||Alternative names|Greco-Bactria||||
+NGA|AfGrBct|Social Complexity variables|Information|Articles|present||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Atlatl|absent||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Battle axes|UNKNOWN||suspected||True
+NGA|AfGrBct|Warfare variables|Military Technologies|Breastplates|present||||
+NGA|AfGrBct|Social Complexity variables|Specialized Buildings: polity owned|Bridges|UNKNOWN||suspected||True
+NGA|AfGrBct|Warfare variables|Military Technologies|Bronze|present||||
+NGA|AfGrBct|Social Complexity variables|Information|Calendar|present||inferred||
+NGA|AfGrBct|Warfare variables|Military Technologies|Camels|present||inferred||
+NGA|AfGrBct|Social Complexity variables|Specialized Buildings: polity owned|Canals|absent||inferred||
+NGA|AfGrBct|General variables||Capital|Bactra||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Chainmail|UNKNOWN||suspected||True
+NGA|AfGrBct|Warfare variables|Military Technologies|Complex fortifications|present||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Composite bow|present||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Copper|present||inferred||
+NGA|AfGrBct|Social Complexity variables|Information|Couriers|UNKNOWN||suspected||True
+NGA|AfGrBct|Social Complexity variables|Law|Courts|UNKNOWN||suspected||True
+NGA|AfGrBct|Warfare variables|Military Technologies|Crossbow|absent||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Daggers|present||inferred||
+NGA|AfGrBct|General variables||Degree of centralization|unitary state||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Ditch|present||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Dogs|UNKNOWN||suspected||True
+NGA|AfGrBct|Warfare variables|Military Technologies|Donkeys|present||||
+NGA|AfGrBct|Social Complexity variables|Specialized Buildings: polity owned|drinking water supply systems|present||||
+NGA|AfGrBct|General variables||Duration|[-0256,-0125]||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Earth ramparts|present||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Elephants|present||||
+NGA|AfGrBct|Social Mobility|Status|Elite status is hereditary|present||inferred||
+NGA|AfGrBct|Social Complexity variables|Bureaucracy characteristics|Examination system|absent||inferred||
+NGA|AfGrBct|Social Complexity variables|Information|Fiction|present||||
+NGA|AfGrBct|Social Complexity variables|Specialized Buildings: polity owned|food storage sites|present||||
+NGA|AfGrBct|Social Complexity variables|Information|Foreign coins|present||||
+NGA|AfGrBct|Social Complexity variables|Law|Formal legal code|present||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Fortified camps|UNKNOWN||suspected||True
+NGA|AfGrBct|Social Complexity variables|Bureaucracy characteristics|Full-time bureaucrats|present||inferred||
+NGA|AfGrBct|General variables||RA|Stephen Dean||||
+NGA|AfGrBct|General variables||RA|Alice Williams||||
+NGA|AfGrBct|General variables||RA|Edward A L Turner||||
+NGA|AfGrBct|Social Complexity variables|Information|General postal service|UNKNOWN||suspected||True
+NGA|AfGrBct|Warfare variables|Military Technologies|Gunpowder siege artillery|absent||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Handheld firearms|absent||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Helmets|present||||
+NGA|AfGrBct|Social Complexity variables|Information|History|present||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Horses|present||||
+NGA|AfGrBct|Institutional Variables||RA|Agathe Dupeyron||||
+NGA|AfGrBct|Religion and Normative Ideology|Normative ideological Aspects of Equity and Prosociality|Ideological reinforcement of equality|present||||
+NGA|AfGrBct|Religion and Normative Ideology|Normative ideological Aspects of Equity and Prosociality|Ideological thought equates elites and commoners|present||||
+NGA|AfGrBct|Religion and Normative Ideology|Normative ideological Aspects of Equity and Prosociality|Ideological thought equates rulers and commoners|present||||
+NGA|AfGrBct|Religion and Normative Ideology|Normative ideological Aspects of Equity and Prosociality|Ideology reinforces prosociality|present||||
+NGA|AfGrBct|Social Complexity variables|Information|Indigenous coins|present||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Iron|present||||
+NGA|AfGrBct|Social Complexity variables|Specialized Buildings: polity owned|irrigation systems|present||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Javelins|present||inferred||
+NGA|AfGrBct|Social Complexity variables|Law|Judges|UNKNOWN||suspected||True
+NGA|AfGrBct|Warfare variables|Military Technologies|Laminar armor|UNKNOWN||suspected||True
+NGA|AfGrBct|General variables||Language|Greek||||
+NGA|AfGrBct|General variables||Language|Bactrian||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Leather cloth|present||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Limb protection|present||||
+NGA|AfGrBct|Social Complexity variables|Information|Lists tables and classifications|present||inferred||
+NGA|AfGrBct|Social Complexity variables|Specialized Buildings: polity owned|markets|present||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Merchant ships pressed into service|absent||||
+NGA|AfGrBct|Social Complexity variables|Bureaucracy characteristics|Merit promotion|absent||inferred||
+NGA|AfGrBct|Social Complexity variables|Hierarchical Complexity|Military levels|5||||
+NGA|AfGrBct|Social Complexity variables|Specialized Buildings: polity owned|Mines or quarries|UNKNOWN||suspected||True
+NGA|AfGrBct|Social Complexity variables|Information|Mnemonic devices|UNKNOWN||suspected||True
+NGA|AfGrBct|Warfare variables|Military Technologies|Moat|present||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Modern fortifications|absent||||
+NGA|AfGrBct|Religion and Normative Ideology|Moralizing Supernatural Powers|Moral concern is primary|present||||
+NGA|AfGrBct|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement in afterlife|present||||
+NGA|AfGrBct|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement in this life|present||||
+NGA|AfGrBct|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement is agentic|present||||
+NGA|AfGrBct|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement is certain|present||||
+NGA|AfGrBct|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement is targeted|present||||
+NGA|AfGrBct|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing enforcement of rulers|absent||||
+NGA|AfGrBct|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing norms are broad|present||||
+NGA|AfGrBct|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing religion adopted by commoners|absent|||True|
+NGA|AfGrBct|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing religion adopted by commoners|present|||True|
+NGA|AfGrBct|Religion and Normative Ideology|Moralizing Supernatural Powers|Moralizing religion adopted by elites|present||||
+NGA|AfGrBct|Social Complexity variables|Information|Non-phonetic writing|absent||||
+NGA|AfGrBct|Social Complexity variables|Information|Nonwritten records|UNKNOWN||suspected||True
+NGA|AfGrBct|General variables||Original name|Greco-Bactrian Kingdom||||
+NGA|AfGrBct|Social Complexity variables|Information|Paper currency|absent||||
+NGA|AfGrBct|General variables||Peak Date|-0180||||
+NGA|AfGrBct|Social Complexity variables|Information|Philosophy|present||inferred||
+NGA|AfGrBct|Social Complexity variables|Information|Phonetic alphabetic writing|present||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Plate armor|present||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Polearms|UNKNOWN||suspected||True
+NGA|AfGrBct|Social Complexity variables|Social Scale|Polity Population|[1500000,2000000]|-0200|||
+NGA|AfGrBct|Social Complexity variables|Social Scale|Polity territory|2200000|-0180|||
+NGA|AfGrBct|Social Complexity variables|Social Scale|Polity territory|[600000,800000]|-0200|||
+NGA|AfGrBct|Social Complexity variables|Social Scale|Population of the largest settlement|[25000,50000]||||
+NGA|AfGrBct|Social Complexity variables|Specialized Buildings: polity owned|Ports|present||inferred||
+NGA|AfGrBct|Social Complexity variables|Information|Practical literature|present||inferred||
+NGA|AfGrBct|Social Complexity variables|Information|Precious metals|present||inferred||
+NGA|AfGrBct|Social Complexity variables|Law|Professional Lawyers|UNKNOWN||suspected||True
+NGA|AfGrBct|Social Complexity variables|Professions|Professional military officers|present||||
+NGA|AfGrBct|Social Complexity variables|Professions|Professional priesthood|present||||
+NGA|AfGrBct|Social Complexity variables|Professions|Professional soldiers|present||||
+NGA|AfGrBct|Religion and Normative Ideology||RA|Enrico Cioni||||
+NGA|AfGrBct|Social Complexity variables|Hierarchical Complexity|Religious levels|[1,2]||||
+NGA|AfGrBct|Social Complexity variables|Information|Religious literature|present||||
+NGA|AfGrBct|Social Complexity variables|Specialized Buildings: polity owned|Roads|present||||
+NGA|AfGrBct|Religion and Normative Ideology|Deification of Rulers|Rulers are gods|present||inferred||
+NGA|AfGrBct|Religion and Normative Ideology|Deification of Rulers|Rulers are legitimated by gods|absent||inferred||
+NGA|AfGrBct|Social Complexity variables||RA|Stephen Dean||||
+NGA|AfGrBct|Social Complexity variables||RA|Alice Williams||||
+NGA|AfGrBct|Social Complexity variables||RA|Edward A L Turner||||
+NGA|AfGrBct|Social Complexity variables|Information|Sacred Texts|present||inferred||
+NGA|AfGrBct|Warfare variables|Military Technologies|Scaled armor|present||||
+NGA|AfGrBct|Social Complexity variables|Information|Scientific literature|present||inferred||
+NGA|AfGrBct|Social Complexity variables|Information|Script|present||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Self bow|present||inferred||
+NGA|AfGrBct|Social Complexity variables|Hierarchical Complexity|Settlement hierarchy|3||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Settlements in a defensive position|UNKNOWN||suspected||True
+NGA|AfGrBct|Warfare variables|Military Technologies|Shields|present||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Sling siege engines|absent||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Slings|present||inferred||
+NGA|AfGrBct|Warfare variables|Military Technologies|Small vessels (canoes etc)|present||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Spears|present||||
+NGA|AfGrBct|Social Complexity variables|Bureaucracy characteristics|Specialized government buildings|present||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Specialized military vessels|absent||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Steel|absent||inferred||
+NGA|AfGrBct|Warfare variables|Military Technologies|Stone walls (mortared)|present||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Stone walls (non-mortared)|UNKNOWN||suspected||True
+NGA|AfGrBct|General variables||Supra-polity relations|alliance||||
+NGA|AfGrBct|General variables||Supracultural entity|Greek||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Swords|present||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Tension siege engines|present||||
+NGA|AfGrBct|Social Complexity variables|Information|Tokens|UNKNOWN||suspected||True
+NGA|AfGrBct|Warfare variables||RA|Stephen Dean||||
+NGA|AfGrBct|Warfare variables||RA|Alice Williams||||
+NGA|AfGrBct|Warfare variables||RA|Edward A L Turner||||
+NGA|AfGrBct|Warfare variables|Military Technologies|War clubs|UNKNOWN||suspected||True
+NGA|AfGrBct|Warfare variables|Military Technologies|Wood bark etc|present||||
+NGA|AfGrBct|Warfare variables|Military Technologies|Wooden palisades|UNKNOWN||suspected||True
+NGA|AfGrBct|Social Complexity variables|Information|Written records|present||||
+NGA|AfGrBct|Religion and Normative Ideology|Normative ideological Aspects of Equity and Prosociality|production of public goods|present||||
+NGA|AfGrBct|General variables||scale of supra-cultural interaction|4500000||||
